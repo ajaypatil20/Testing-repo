@@ -4,3 +4,4 @@ function checkingNumber() {
 
 checkingNumber();
 console.log("Checking");
+console.log("console.lo");
