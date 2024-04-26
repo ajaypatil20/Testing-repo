@@ -1,5 +1,1 @@
-function sayName() {
-    console.log("Suresh");
-}
-
-syanName();
+console.log("Checking");
