@@ -4,4 +4,3 @@ function checkingNumber() {
 let a = 20;
 let b = 30;
 checkingNumber();
-console.log("Checking");
